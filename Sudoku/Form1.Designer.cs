@@ -115,7 +115,6 @@
             this.label3 = new System.Windows.Forms.Label();
             this.btnSolve = new System.Windows.Forms.Button();
             this.btnGenerate = new System.Windows.Forms.Button();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -1394,34 +1393,13 @@
             this.btnGenerate.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnGenerate.Font = new System.Drawing.Font("Segoe UI Light", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnGenerate.ForeColor = System.Drawing.Color.White;
-            this.btnGenerate.Location = new System.Drawing.Point(409, 51);
+            this.btnGenerate.Location = new System.Drawing.Point(505, 51);
             this.btnGenerate.Name = "btnGenerate";
             this.btnGenerate.Size = new System.Drawing.Size(88, 36);
             this.btnGenerate.TabIndex = 6;
             this.btnGenerate.Text = "Generate";
             this.btnGenerate.UseVisualStyleBackColor = true;
             this.btnGenerate.Click += new System.EventHandler(this.btnGenerate_Click);
-            // 
-            // comboBox2
-            // 
-            this.comboBox2.BackColor = System.Drawing.Color.Crimson;
-            this.comboBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBox2.Font = new System.Drawing.Font("Segoe UI Light", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.comboBox2.ForeColor = System.Drawing.Color.White;
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.ItemHeight = 25;
-            this.comboBox2.Items.AddRange(new object[] {
-            "Easy",
-            "Medium",
-            "Hard",
-            "l",
-            "l",
-            "l"});
-            this.comboBox2.Location = new System.Drawing.Point(501, 52);
-            this.comboBox2.Margin = new System.Windows.Forms.Padding(3, 8, 3, 3);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(88, 33);
-            this.comboBox2.TabIndex = 8;
             // 
             // Form1
             // 
@@ -1435,7 +1413,6 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.comboBox2);
             this.KeyPreview = true;
             this.Name = "Form1";
             this.Text = "Form1";
@@ -1536,7 +1513,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btnSolve;
         private System.Windows.Forms.Button btnGenerate;
-        private System.Windows.Forms.ComboBox comboBox2;
     }
 }
 
