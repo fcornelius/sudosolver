@@ -37,6 +37,7 @@ namespace Sudoku
             }
             
             /* Label namen generieren
+             * 
             for (int r = 0; r < 3; r++)
             {
                 for (int y = 1; y <= 3; y++)
