@@ -14,7 +14,7 @@ C:\Users\Felix\sodusolvr\Sudoku\obj\Debug\Sudoku.pdb
 C:\Users\Felix\sodusolvr\Sudoku\bin\Debug\Sudoku.exe
 C:\Users\Felix\sodusolvr\Sudoku\bin\Debug\Sudoku.pdb
 C:\Users\Felix\sodusolvr\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
-C:\Users\Felix\sodusolvr\Sudoku\obj\Debug\Sudoku.Form1.resources
 C:\Users\Felix\sodusolvr\Sudoku\obj\Debug\Sudoku.Import.resources
 C:\Users\Felix\sodusolvr\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
 C:\Users\Felix\sodusolvr\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+C:\Users\Felix\sodusolvr\Sudoku\obj\Debug\Sudoku.SudokuForm.resources

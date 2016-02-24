@@ -134,7 +134,7 @@
             this.lblB1X1Y1.BackColor = System.Drawing.Color.White;
             this.lblB1X1Y1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.lblB1X1Y1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.lblB1X1Y1.Font = new System.Drawing.Font("Century Gothic", 21F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblB1X1Y1.Font = new System.Drawing.Font("Century Gothic", 23F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblB1X1Y1.ForeColor = System.Drawing.SystemColors.ControlText;
             this.lblB1X1Y1.Location = new System.Drawing.Point(5, 5);
             this.lblB1X1Y1.Name = "lblB1X1Y1";
@@ -1627,7 +1627,7 @@
             this.label5.Size = new System.Drawing.Size(150, 31);
             this.label5.TabIndex = 17;
             // 
-            // Form1
+            // SudokuForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -1651,7 +1651,7 @@
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.KeyPreview = true;
-            this.Name = "Form1";
+            this.Name = "SudokuForm";
             this.Text = "SudokuSolvealpha";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);

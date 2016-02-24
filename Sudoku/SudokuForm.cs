@@ -285,7 +285,7 @@ namespace Sudoku
                         else
                         {
                             labels[thisCell.Index].ForeColor = Color.Silver;
-                            labels[thisCell.Index].Font = new Font(labels[thisCell.Index].Font.FontFamily, 11);
+                            labels[thisCell.Index].Font = new Font(labels[thisCell.Index].Font.FontFamily, 13);
                             labels[thisCell.Index].Padding = new Padding(2, 0, 0, 0);
 
                             labels[thisCell.Index].Text = "";
