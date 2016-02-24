@@ -36,19 +36,7 @@ namespace Sudoku
 
             }
             
-            /* Label namen generieren
-             * 
-            for (int r = 0; r < 3; r++)
-            {
-                for (int y = 1; y <= 3; y++)
-                {
-                    for (int x = 1; x <= 9; x++)
-                    {
-                        int b = (x - 1) / 3 + 1 + (3*r);
-                        textBox1.AppendText("this.panel1.Controls.Add(this.lblB"+b+"X"+x+"Y"+(y + (3*r))+");" + Environment.NewLine);
-                    }
-                }
-            } */
+    
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
